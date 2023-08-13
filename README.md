@@ -1,16 +1,26 @@
-### Hi there 👋
+[![MasterHead](https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67)](https://sholmanr.io)
 
-<!--
-**Sholmanr/Sholmanr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Simjae Holman-Rayos</h1>
+<h3 align="center">A passionate frontend developer from Michigan</h3>
 
-Here are some ideas to get you started:
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif?cid=ecf05e47gbdyga6mredmhamwpw6nmrjyhcmai0kebhv2b5pb&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sholmanr&label=Profile%20views&color=0e75b6&style=flat" alt="sholmanr" /> </p>
+
+- 🌱 I’m currently learning **Computer Science**
+
+- 📫 How to reach me **simjaehr@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/simjae-holman-rayos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simjae-holman-rayos" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sholmanr&show_icons=true&locale=en&layout=compact" alt="sholmanr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sholmanr&show_icons=true&locale=en" alt="sholmanr" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sholmanr&" alt="sholmanr" /></p>
