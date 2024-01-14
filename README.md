@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sholmanr&" alt="sholmanr" /></p>
 
-<img align="left" alt="Coding" width="400" src="https://media0.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif?cid=ecf05e47gbdyga6mredmhamwpw6nmrjyhcmai0kebhv2b5pb&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+
