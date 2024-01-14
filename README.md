@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/simjae-holman-rayos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simjae-holman-rayos" height="30" width="40" /></a>
 <a href="https://asu.joinhandshake.com/stu/users/51370312" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/2332267?s=200&v=4" alt="simjae-holman-rayos" height="30" width = "40" />
-  <\a>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
