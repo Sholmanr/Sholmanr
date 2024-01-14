@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Simjae Holman-Rayos</h1>
 <h3 align="center">A passionate computer science student at Arizona State University. I currently live in Michigan and am looking for an intership to utilize skills learned in school as well as learn other skills that are </h3>
 
-<img align="left" alt="Coding" width="400" src="https://media0.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif?cid=ecf05e47gbdyga6mredmhamwpw6nmrjyhcmai0kebhv2b5pb&ep=v1_gifs_related&rid=giphy.gif&ct=g">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sholmanr&label=Profile%20views&color=0e75b6&style=flat" alt="sholmanr" /> </p>
 
 - 🌱 I’m currently studying **Computer Science**
@@ -27,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sholmanr&show_icons=true&locale=en" alt="sholmanr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sholmanr&" alt="sholmanr" /></p>
+
+<img align="left" alt="Coding" width="400" src="https://media0.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif?cid=ecf05e47gbdyga6mredmhamwpw6nmrjyhcmai0kebhv2b5pb&ep=v1_gifs_related&rid=giphy.gif&ct=g">
