@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67](https://sholmanr.io))
 
 <h1 align="center">Hi 👋, I'm Simjae Holman-Rayos</h1>
-<h3 align="center">A passionate computer science student at Arizona State University. I currently live in Michigan and am looking for an intership to utilize skills learned in school as well as learn other skills that are </h3>
+<h3 align="center">Passionate Computer Science graduate looking to combine my healthcare and computer science knowledge. </h3>
 
 <img align="center " alt="Coding" width="400" src="https://media0.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif?cid=ecf05e47gbdyga6mredmhamwpw6nmrjyhcmai0kebhv2b5pb&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
